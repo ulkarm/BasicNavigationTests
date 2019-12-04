@@ -7,7 +7,7 @@ import java.util.List;
 
 public class TestVerification3 {
     public static void main(String[] args) {
-        List<String> urls = Arrays.asList( "https://wayfair.com/",
+        List<String> urls = Arrays.asList( "https://luluandgeorgia.com", "https://wayfair.com/",
                 "https://walmart.com", "https://westelm.com/");
 
         for (String url : urls) {
